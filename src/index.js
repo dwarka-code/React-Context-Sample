@@ -2,7 +2,6 @@ import React from "react";
 import ReactDOM from "react-dom";
 import AppProvider from "./provider";
 import Person from "./Person";
-import Data from "./Data";
 import "./styles.css";
 
 const AppContext = React.createContext();
